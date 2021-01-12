@@ -21,6 +21,7 @@ In each folder (except for /11 and /12) there is:
 * evetually a clean.sh file for cleaning contents;
 
 Note: programs and results are eventually contained in folders for different parts of the exercises, e.g. /01.1, /01.2 ...
+
 Note: results are eventually stored in folders, e.g. /circle, /square ..., generally named after the type of results they contain;
 
 In folders /11 and /12:

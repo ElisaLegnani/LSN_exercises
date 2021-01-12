@@ -1,6 +1,6 @@
 # LSN_exercises
 
-************************************************* READ ME *************************************************
+*************************************************** READ ME ***************************************************
 
 
 This repository contains the exercises for the Numerical Simulation Laboratory (LSN).

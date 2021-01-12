@@ -3,7 +3,7 @@
 This repository contains the exercises for the Numerical Simulation Laboratory (LSN).
 
 
--------------------------------------------------------- Folders organization --------------------------------------------------------
+------------------------------------------------- Folders organization -------------------------------------------------
 
 Each folder contains a part of the exercises.
 

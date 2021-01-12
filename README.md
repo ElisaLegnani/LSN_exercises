@@ -25,4 +25,4 @@ Note: programs and results are eventually contained in folders for different par
 Note: results are eventually stored in folders, e.g. /circle, /square ..., generally named after the type of results they contain;
 
 In folders /11 and /12:
-* jupyter notebooks where not only the exercises are explained and results are shown and discussed, but also the code is written and executed;
+* jupyter notebooks with the exercises explainations and the results, but also the code parts;

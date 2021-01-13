@@ -20,9 +20,9 @@ In each folder (except for /11 and /12) there is:
 * eventually a README.md file that explains how to properly run the code;
 * evetually a clean.sh file for cleaning contents;
 
-Note: programs and results are eventually contained in folders for different parts of the exercises, e.g. /01.1, /01.2 ...
+Note: programs and results are eventually contained in folders for different parts of the exercises, e.g. /01.1, /01.2...;
 
-Note: results are eventually stored in folders, e.g. /circle, /square ..., generally named after the type of results they contain;
+Note: results are eventually stored in folders, e.g. /circle, /square ..., generally named after the type of results they contain.
 
 In folders /11 and /12:
 * jupyter notebooks with the exercises explainations and the results, but also the code parts;

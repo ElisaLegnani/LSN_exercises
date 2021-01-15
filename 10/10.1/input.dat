@@ -1,0 +1,13 @@
+32
+square
+20
+0.9
+100
+10000
+
+  ReadInput >> ncities;
+  ReadInput >> config;
+  ReadInput >> temp;
+  ReadInput >> trate;
+  ReadInput >> tsteps;
+  ReadInput >> nsteps;

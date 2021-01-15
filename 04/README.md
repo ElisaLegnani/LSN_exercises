@@ -1,4 +1,4 @@
---------------------------------------------------- How to run the Molecular Dynamics code -------------------------------------------------
+-------------------------------------------------------- How to run the Molecular Dynamics code ------------------------------------------------------
 
 input.dat contains all the parameters needed to run a simulation:
 * temperature, number of particles, particle density, cut-off radius, time step, number of steps; 
@@ -12,13 +12,13 @@ input.equi, input.solid, input.liquid and input.gas contain the parameters (in L
 
 Note: in the code there is the option to print the configuration in .xyz format every 10 steps, that is commented to avoid "filesystem full"; to use it, uncomment it and re-compile the program.
 
--------------------------------------------------- Additional information about the folder  ------------------------------------------------
+------------------------------------------------------- Additional information about the folder  -----------------------------------------------------
 
 
 The MD code for simulations of Argon in SI units is implemented in the /Argon folder.
 
 
-------------------------------------------------------- How to equilibrate the system -------------------------------------------------------
+------------------------------------------------------------ How to equilibrate the system ------------------------------------------------------------
 
 
 1. Run 'make clean.sim' : delete previous configurations and output data;

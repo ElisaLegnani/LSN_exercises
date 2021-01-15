@@ -1,0 +1,13 @@
+32
+square
+5000
+300
+0.6
+0.05
+
+  ReadInput >> ncities;
+  ReadInput >> config;
+  ReadInput << npaths;
+  ReadInput << ngens;
+  ReadInput << pc;
+  ReadInput << pm;

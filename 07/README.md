@@ -1,7 +1,8 @@
 -------------------------------------------- How to run the Monte Carlo NVT code --------------------------------------------
 
 input.dat contains all the parameters needed to run a simulation:
-	temperature, number of particles, particle density, cut-off radius, time step, number of blocks, number of steps; 
+* temperature, number of particles, particle density, cut-off radius
+* time step, number of blocks, number of steps; 
 
 input.solid, input.liquid and input.gas contain the thermodynamic parameters (in LJ units) for the input.dat file that are characteristic of each phase and the optimized parameters for the simulation.
 

@@ -1,0 +1,15 @@
+0
+2.6
+500000
+100
+0.78
+0.62
+0
+
+  ReadInput >> x0; 
+  ReadInput >> delta; 
+  ReadInput >> nstep; 
+  ReadInput >> nblock; 
+  ReadInput >> mu;
+  ReadInput >> sigma;
+  ReadInput >> delta_opt;

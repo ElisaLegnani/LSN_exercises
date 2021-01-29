@@ -3,10 +3,23 @@
 This repository contains the exercises for the Numerical Simulation Laboratory (LSN).
 
 
+--------------------------------------------------- Folders content ---------------------------------------------------
+
+* 01: pseudo-random number generation;
+* 02: sampling of random variables and simulation of stochastic processes;
+* 03: sampling techniques applied to economics;
+* 04: molecular dynamics simulations;
+* 05: Metropolis sampling applied to the hydrogen atom;
+* 06: Metropolis and Gibbs sampling applied to the 1D Ising model;
+* 07: Metropolis sampling for simulations of molecular dynamics;
+* 08: Variational Monte Carlo and Path Integral Monte Carlo methods;
+* 09: Genetic Algorithm to solve the traveling salesman problem;
+* 10: Simulated Annealing algorithm and Parallel Computing to solve the traveling salesman problem;
+* 11: Neural Network regression;
+* 12: Deep and Convolutional Neural Network image recognition.
+
+
 ------------------------------------------------- Folders organization -------------------------------------------------
-
-Each folder contains a part of the exercises.
-
 
 In each folder (except for /11 and /12) there is:
 * a jupyter notebook, e.g. LSN_Exercises_01.ipynb, where the exercises are explained and results are shown and discussed;
